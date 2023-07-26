@@ -1,4 +1,4 @@
-package designPatterns.observer.observables;
+package designPatterns.observer.subjects;
 
 import designPatterns.observer.observers.Observer;
 

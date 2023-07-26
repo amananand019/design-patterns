@@ -1,6 +1,6 @@
 package designPatterns.observer.observers;
 
-import designPatterns.observer.observables.WeatherData;
+import designPatterns.observer.subjects.WeatherData;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;
